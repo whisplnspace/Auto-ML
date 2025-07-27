@@ -50,7 +50,7 @@ graph TD
 ### 🔧 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/automl-trainer.git
+git clone https://github.com/whisplnspace/automl-trainer.git
 cd automl-trainer
 ```
 
@@ -154,10 +154,6 @@ If you’d like to improve this app, feel free to fork and submit a pull request
 
 ---
 
-## 👨‍💻 Author
+Made with ❤️ 
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="Profile views" />
-</p>
