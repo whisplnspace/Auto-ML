@@ -114,16 +114,6 @@ automl-trainer/
 
 ---
 
-## 🌱 Future Improvements
-
-* [ ] Hyperparameter tuning (GridSearchCV / Optuna)
-* [ ] Feature importance visualization
-* [ ] Model explainability (SHAP)
-* [ ] XGBoost & LightGBM support
-* [ ] Auto-inference on new uploaded datasets
-
----
-
 ## 📥 Sample Output
 
 <p align="center">
